@@ -1,0 +1,47 @@
+/**
+  * @name Gruvbox
+  * @author acicco
+  * @description It's Gruvbox baby!
+  * @website https://github.com/acicco/Gruvbox_DiscordTheme
+  * @version 1.0.0
+*/
+/*
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ Theme Settings                                                                                                     ║
+╠══════════════════════════╦═════════════════════════════════════════════════════════════════════════════════════════╣
+║ Theme:                   ║ Gruvbox                                                                                 ║
+║ version:                 ║ 1.0.0                                                                                   ║
+║ author:                  ║ acicco                                                                                  ║
+╠══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                                    ║
+║ Best Development theme there is, inspired by https://github.com/morhetz/gruvbox                                    ║
+║                                                                                                                    ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+*/
+
+:root{
+  --background-primary: #1D2021;
+  --background-secondary: #3C3836;
+  --background-secondary-alt: #3C3836;
+  --background-tertiary: #3C3836;
+
+  --btn-bg-primary: #3C3836;
+  --btn-bg-secondary: var(--btn-bg-primary);
+  --btn-bg-primary-hover: #504945;
+  --btn-bg-secondary-hover: #504945;
+
+  --text-normal: #EBDBB2;
+  --header-primary: #847B6A;
+}
+
+/* Main people column */
+.peopleColumn-29fq28, .peopleList-3c4jOR {
+    background: var(--background-primary);
+}
+
+/* Typing bar */
+.attachButton-2WznTc, .textArea-12jD-V, .buttons-3JBrkn, .scrollableContainer-2NUZem {
+    background: var(--background-secondary);
+}
+
+
