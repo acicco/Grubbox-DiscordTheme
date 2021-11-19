@@ -1,1 +1,3 @@
-# Grubbox-DiscordTheme
+# Gruvbox Theme for BetterDiscord
+
+
